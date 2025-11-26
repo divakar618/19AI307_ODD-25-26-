@@ -38,8 +38,8 @@ To simulate a radar control system where only one tower instance handles multipl
  ```
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by : Afsar Jumail S
-Register Number : 212222240004
+Developed by : DIVAKAR R
+Register Number : 212222240026
 */
 ```
 
@@ -90,6 +90,7 @@ public class prog {
 
 ## RESULT:
 The program ensures only one Radar Control Tower instance handles all flight communications and correctly displays the total number of registered flights.
+
 
 
 
